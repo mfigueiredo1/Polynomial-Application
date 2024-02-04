@@ -1,2 +1,1 @@
-# Polynomial-Application
-C Application where user can create two polynomials using linked lists to connect terms. Evaluate polynomials, add/delete nodes (polynmomial terms)  in linked list.
+# Polynomial-Application C Application where user can create two polynomials using linked lists to connect terms. Evaluate polynomials, add/delete nodes (polynmomial terms)  in linked list. Successful removal of nodes upon termination, use of typedef and multi-file setting to ensure organization and readability. Program follows strict coding conventions and practices set by Prof. Tuan Nguyen of Laney College, Oakland CA. Final project for CIS 27 Data Structures and Algorithms Fall 2023 Laney College, Oakland Ca.
